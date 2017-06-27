@@ -1,0 +1,99 @@
+\begin{thebibliography}{Dum06}
+
+\bibitem[Ann07]{refbibMiddle}
+Fron Annick.
+\newblock {\em Architectures réparties en java}.
+\newblock Dunod, Paris, 1 edition, 09 2007.
+\newblock RMI, CORBA, JMS, Sockets, SOAP, Service Web.
+
+\bibitem[Cha12]{refbibBase}
+Roe Charles.
+\newblock Acid vs. base: The shifting ph of database transaction processing.
+\newblock
+  http://www.dataversity.net/acid-vs-base-the-shifting-ph-of-database-transaction-processing/,
+  03 2012.
+
+\bibitem[D00]{refbib3}
+Garland D.
+\newblock Software architecture: a roadmap.
+\newblock {\em School of Computer Science}, 2000.
+
+\bibitem[Dum06]{refbibDispo}
+Christian Dumont.
+\newblock {\em Itil pour un service informatique optimal}.
+\newblock Groupe Eyrolles, 2006.
+
+\bibitem[EL92]{refbibFoundations}
+Dewayne E.Perry and Alexander L.Wolf.
+\newblock Foundations for the study of software architecture.
+\newblock http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf, 10 1992.
+
+\bibitem[Fow14]{refbibFowler}
+Martin Fowler.
+\newblock Microservices.
+\newblock https://martinfowler.com/articles/microservices.html, 03 2014.
+\newblock Decentralized Data Management.
+
+\bibitem[Fow15]{refbibMonoFirst}
+Martin Fowler.
+\newblock Monolithfirst.
+\newblock https://martinfowler.com/bliki/MonolithFirst.html, 06 2015.
+
+\bibitem[Lar05]{refbib5}
+Craig Larman.
+\newblock {\em UML 2 et les design patterns}.
+\newblock Paris : Pearson Education, 3 edition, 2005.
+\newblock traduction Emmanuelle Burr, Marie-Cécile Baland et Luc Carité.
+
+\bibitem[ref95]{refbib1}
+{\em Component programming , a fresh look at software components}, a fresh look
+  at software components. In Proceedings of the 5th European Software
+  Engineering Conference, London,UK, 1995. Springer Verlag.
+
+\bibitem[ref96]{refbib4}
+{\em Software architecture}, perspectives on an emerging discipline, Upper
+  Saddle River, NJ, USA, 1996. Prentice-Hall, Inc.
+
+\bibitem[ref98]{refbib2}
+{\em Component software}, beyond object-oriented programming, New York, NY,
+  USA, 1998. ACM Press/Addison-Wesley Publishing Co.
+
+\bibitem[Tho16]{refbib6}
+JARDINET Thomas.
+\newblock Microservices vs soa : En finir avec l’éternel débat.
+\newblock
+  http://www.astrakhan.fr/LeLab/article/Id/Microservices-vs-SOA%C2%A0--En-finir-avec-l-eternel-debat-66,
+  10 2016.
+
+\bibitem[Vla14]{refbibAcid}
+Mihalcea Vlad.
+\newblock A beginner’s guide to acid and database transactions.
+\newblock
+  https://vladmihalcea.com/2014/01/05/a-beginners-guide-to-acid-and-database-transactions/,
+  01 2014.
+
+\bibitem[Wika]{refbibCentreDonnee}
+Wikipedia.
+\newblock Architecture centrée sur les données.
+\newblock
+  https://fr.wikipedia.org/wiki/Architecture\_centrée\_sur\_les\_donnée.
+
+\bibitem[Wikb]{refbibArch}
+Wikipedia.
+\newblock Architecture logicielle.
+\newblock https://fr.wikipedia.org/wiki/Architecture\_logicielle.
+
+\bibitem[Wikc]{refbibrest}
+Wikipedia.
+\newblock Rest.
+\newblock https://fr.wikipedia.org/wiki/Representational\_state\_transfer.
+
+\bibitem[YG12]{refbibPipeLine}
+Guéhéneuc Yann-Gaël.
+\newblock architecture logicielle et conception avancée.
+\newblock
+  http://www.ptidej.net/courses/log4430/winter12/slides/Cours%201%20-%20Conception%20architecturale%201.pdf,
+  2012.
+\newblock Tiré du cours de Julie Vachon.
+
+\end{thebibliography}
