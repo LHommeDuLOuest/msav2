@@ -88,6 +88,13 @@ Wikipedia.
 \newblock Rest.
 \newblock https://fr.wikipedia.org/wiki/Representational\_state\_transfer.
 
+\bibitem[WT13]{refbibNetflix}
+Allen Wang and Sudhir Tonse.
+\newblock Announcing ribbon: Tying the netflix mid-tier services together.
+\newblock
+  https://medium.com/netflix-techblog/announcing-ribbon-tying-the-netflix-mid-tier-services-together-a89346910a62,
+  01 2013.
+
 \bibitem[YG12]{refbibPipeLine}
 Guéhéneuc Yann-Gaël.
 \newblock architecture logicielle et conception avancée.
