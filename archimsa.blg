@@ -3,48 +3,48 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: archimsa.aux
 The style file: alpha.bst
 Database file #1: biblio.bib
+Warning--to sort, need editor, organization, or key in refbib4
 Warning--to sort, need editor, organization, or key in refbib1
 Warning--to sort, need editor, organization, or key in refbib2
-Warning--to sort, need editor, organization, or key in refbib4
-You've used 17 entries,
+You've used 18 entries,
             2543 wiz_defined-function locations,
-            665 strings with 7013 characters,
-and the built_in function-call counts, 4546 in all, are:
-= -- 442
-> -- 126
+            671 strings with 7244 characters,
+and the built_in function-call counts, 4875 in all, are:
+= -- 474
+> -- 145
 < -- 13
-+ -- 35
-- -- 32
-* -- 234
-:= -- 718
-add.period$ -- 52
-call.type$ -- 17
-change.case$ -- 79
-chr.to.int$ -- 15
-cite$ -- 23
-duplicate$ -- 213
-empty$ -- 427
-format.name$ -- 58
-if$ -- 965
++ -- 41
+- -- 38
+* -- 253
+:= -- 774
+add.period$ -- 55
+call.type$ -- 18
+change.case$ -- 85
+chr.to.int$ -- 16
+cite$ -- 24
+duplicate$ -- 223
+empty$ -- 452
+format.name$ -- 65
+if$ -- 1033
 int.to.chr$ -- 3
 int.to.str$ -- 0
 missing$ -- 7
-newline$ -- 86
-num.names$ -- 42
-pop$ -- 134
+newline$ -- 91
+num.names$ -- 45
+pop$ -- 143
 preamble$ -- 1
-purify$ -- 100
+purify$ -- 107
 quote$ -- 0
-skip$ -- 177
+skip$ -- 189
 stack$ -- 0
-substring$ -- 123
-swap$ -- 17
+substring$ -- 130
+swap$ -- 18
 text.length$ -- 13
 text.prefix$ -- 12
 top$ -- 0
-type$ -- 118
+type$ -- 126
 warning$ -- 3
-while$ -- 29
-width$ -- 21
-write$ -- 211
+while$ -- 32
+width$ -- 23
+write$ -- 223
 (There were 3 warnings)

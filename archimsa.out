@@ -1,29 +1,38 @@
 \BOOKMARK [0][-]{chapter*.1}{Remerciements}{}% 1
 \BOOKMARK [0][-]{chapter*.2}{D\351dicaces}{}% 2
-\BOOKMARK [0][-]{chapter*.5}{Probl\351matique}{}% 3
-\BOOKMARK [0][-]{chapter*.6}{Introduction}{}% 4
-\BOOKMARK [0][-]{chapter.1}{Architecture Logicielle}{}% 5
-\BOOKMARK [1][-]{section.1.1}{\311volution de l'architecture}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.2}{Pourquoi une architecture logicielle}{chapter.1}% 7
-\BOOKMARK [1][-]{section.1.3}{Utilit\351 d\220une architecture logicielle}{chapter.1}% 8
-\BOOKMARK [1][-]{section.1.4}{Styles d\220architectures}{chapter.1}% 9
-\BOOKMARK [0][-]{chapter.2}{Architecture Micro-service}{}% 10
-\BOOKMARK [1][-]{section.2.1}{Architectures bas\351es services}{chapter.2}% 11
-\BOOKMARK [2][-]{subsection.2.1.1}{Contrat de service}{section.2.1}% 12
-\BOOKMARK [2][-]{subsection.2.1.2}{R\351activit\351 \046 Disponibilit\351 de service}{section.2.1}% 13
-\BOOKMARK [2][-]{subsection.2.1.3}{S\351curit\351}{section.2.1}% 14
-\BOOKMARK [2][-]{subsection.2.1.4}{Gestion de donn\351es et Transactions}{section.2.1}% 15
-\BOOKMARK [1][-]{section.2.2}{Caract\351ristiques du service}{chapter.2}% 16
-\BOOKMARK [2][-]{subsection.2.2.1}{Classification de service}{section.2.2}% 17
-\BOOKMARK [2][-]{subsection.2.2.2}{Structure Organisationnelle}{section.2.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.3}{Granularit\351 du service}{section.2.2}% 19
-\BOOKMARK [1][-]{section.2.3}{Caract\351ristiques d'architecture}{chapter.2}% 20
-\BOOKMARK [2][-]{subsection.2.3.1}{Composants partag\351s}{section.2.3}% 21
-\BOOKMARK [2][-]{subsection.2.3.2}{Orchestration et Chor\351graphie}{section.2.3}% 22
-\BOOKMARK [2][-]{subsection.2.3.3}{Communication}{section.2.3}% 23
-\BOOKMARK [0][-]{chapter*.9}{Conclusion}{}% 24
-\BOOKMARK [0][-]{section*.10}{Annexes}{}% 25
-\BOOKMARK [0][-]{Annexe.1.A}{Micro-service avec spring boot}{}% 26
-\BOOKMARK [0][-]{Annexe.1.B}{Construction des microservices}{}% 27
-\BOOKMARK [1][-]{section.1.B.1}{Int\351gration continue des microservices}{Annexe.1.B}% 28
-\BOOKMARK [0][-]{Annexe.1.C}{REST}{}% 29
+\BOOKMARK [0][-]{chapter*.6}{Introduction}{}% 3
+\BOOKMARK [0][-]{chapter*.7}{Probl\351matique}{}% 4
+\BOOKMARK [0][-]{chapter*.8}{\311tat de l'art}{}% 5
+\BOOKMARK [0][-]{chapter.1}{Architecture Logicielle}{}% 6
+\BOOKMARK [1][-]{section.1.1}{\311volution de l'architecture}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.2}{Pourquoi une architecture logicielle}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.3}{Utilit\351 d\220une architecture logicielle}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.4}{Styles d\220architectures}{chapter.1}% 10
+\BOOKMARK [0][-]{chapter.2}{Architecture Micro-service}{}% 11
+\BOOKMARK [1][-]{section.2.1}{Architectures bas\351es services}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.1.1}{Contrat de service}{section.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.1.2}{R\351activit\351 \046 Disponibilit\351 de service}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.3}{S\351curit\351}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.4}{Gestion de donn\351es et Transactions}{section.2.1}% 16
+\BOOKMARK [1][-]{section.2.2}{Caract\351ristiques du service}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.1}{Classification de service}{section.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.2}{Structure Organisationnelle}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.3}{Granularit\351 du service}{section.2.2}% 20
+\BOOKMARK [1][-]{section.2.3}{Caract\351ristiques d'architecture}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.3.1}{Composants partag\351s}{section.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.3.2}{Orchestration et Chor\351graphie}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.3}{Communication}{section.2.3}% 24
+\BOOKMARK [0][-]{chapter.3}{\311tude comparative des principaux framework Micro-service}{}% 25
+\BOOKMARK [1][-]{section.3.1}{Frameworks orient\351s micro-service}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.2}{Les \351l\351ments de comparaisons}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.3}{Comparaisons}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.1}{G\351n\351ralit\351s}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.2}{Communaut\351}{section.3.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.3}{Documentation et accessibilit\351}{section.3.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.4}{Aspects techniques}{section.3.3}% 32
+\BOOKMARK [0][-]{chapter*.14}{Conclusion}{}% 33
+\BOOKMARK [0][-]{section*.15}{Annexes}{}% 34
+\BOOKMARK [0][-]{Annexe.1.A}{Micro-service avec spring boot}{}% 35
+\BOOKMARK [0][-]{Annexe.1.B}{Construction des microservices}{}% 36
+\BOOKMARK [1][-]{section.1.B.1}{Int\351gration continue des microservices}{Annexe.1.B}% 37
+\BOOKMARK [0][-]{Annexe.1.C}{REST}{}% 38

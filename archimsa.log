@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.17)  28 JUN 2017 01:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.31)  1 MAR 2018 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -446,6 +446,25 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen114
+\enit@toks=\toks19
+\enit@inbox=\box26
+\enitdp@description=\count126
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
 
@@ -463,27 +482,27 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count126
+\Gread@gobject=\count127
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count127
-\lst@gtempboxa=\box26
-\lst@token=\toks19
-\lst@length=\count128
-\lst@currlwidth=\dimen114
-\lst@column=\count129
-\lst@pos=\count130
-\lst@lostspace=\dimen115
-\lst@width=\dimen116
-\lst@newlines=\count131
-\lst@lineno=\count132
-\lst@maxwidth=\dimen117
+\lst@mode=\count128
+\lst@gtempboxa=\box27
+\lst@token=\toks21
+\lst@length=\count129
+\lst@currlwidth=\dimen115
+\lst@column=\count130
+\lst@pos=\count131
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count132
+\lst@lineno=\count133
+\lst@maxwidth=\dimen118
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count133
-\lst@skipnumbers=\count134
-\lst@framebox=\box27
+\c@lstnumber=\count134
+\lst@skipnumbers=\count135
+\lst@framebox=\box28
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -493,17 +512,54 @@ Package: listings 2015/06/04 1.6 (Carsten Heinz)
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen119
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen120
+\extrarowheight=\dimen121
+\NC@list=\toks22
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+\everycr=\toks23
+\minrowclearance=\skip52
+)
+LaTeX Info: Redefining \color on input line 702.
+\rownum=\count136
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks20
-\verbatim@line=\toks21
+\every@verbatim=\toks24
+\verbatim@line=\toks25
 \verbatim@in@stream=\read1
 )
 (/usr/share/texlive/texmf-dist/tex/latex/moreverb/moreverb.sty
 Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
-\tab@position=\count135
-\tab@size=\count136
-\listing@line=\count137
+\tab@position=\count137
+\tab@size=\count138
+\listing@line=\count139
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
@@ -515,24 +571,6 @@ Package: pst-all 2008/01/01 the main pstricks tools
 (/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
 Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
 
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-LaTeX Info: Redefining \color on input line 702.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-)
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
@@ -542,63 +580,63 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks22
-\XKV@tempa@toks=\toks23
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
 )
-\XKV@depth=\count138
+\XKV@depth=\count140
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count139
-\pstFP@xia=\count140
-\pstFP@xib=\count141
-\pstFP@xfa=\count142
-\pstFP@xfb=\count143
-\pstFP@rega=\count144
-\pstFP@regb=\count145
-\pstFP@regs=\count146
-\pstFP@times=\count147
+\pstFP@xs=\count141
+\pstFP@xia=\count142
+\pstFP@xib=\count143
+\pstFP@xfa=\count144
+\pstFP@xfb=\count145
+\pstFP@rega=\count146
+\pstFP@regb=\count147
+\pstFP@regs=\count148
+\pstFP@times=\count149
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks24
-\pgfutil@tempdima=\dimen118
-\pgfutil@tempdimb=\dimen119
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen122
+\pgfutil@tempdimb=\dimen123
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks25
-\pgfkeys@temptoks=\toks26
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
 ex
-\pgfkeys@tmptoks=\toks27
+\pgfkeys@tmptoks=\toks31
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
-\pgf@x=\dimen120
-\pgf@xa=\dimen121
-\pgf@xb=\dimen122
-\pgf@xc=\dimen123
-\pgf@y=\dimen124
-\pgf@ya=\dimen125
-\pgf@yb=\dimen126
-\pgf@yc=\dimen127
-\c@pgf@counta=\count148
-\c@pgf@countb=\count149
-\c@pgf@countc=\count150
-\c@pgf@countd=\count151
-\pgfutil@tempcnta=\count152
-\pgfutil@tempcntb=\count153
+\pgf@x=\dimen124
+\pgf@xa=\dimen125
+\pgf@xb=\dimen126
+\pgf@xc=\dimen127
+\pgf@y=\dimen128
+\pgf@ya=\dimen129
+\pgf@yb=\dimen130
+\pgf@yc=\dimen131
+\c@pgf@counta=\count150
+\c@pgf@countb=\count151
+\c@pgf@countc=\count152
+\c@pgf@countd=\count153
+\pgfutil@tempcnta=\count154
+\pgfutil@tempcntb=\count155
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen128
-\pgfmath@count=\count154
-\pgfmath@box=\box28
-\pgfmath@toks=\toks28
-\pgfmath@stack@operand=\toks29
-\pgfmath@stack@operation=\toks30
+\pgfmath@dimen=\dimen132
+\pgfmath@count=\count156
+\pgfmath@box=\box29
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
@@ -618,60 +656,60 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count155
+\c@pgfmathroundto@lastzeros=\count157
 ))
-\pgffor@iter=\dimen129
-\pgffor@skip=\dimen130
-\pgffor@stack=\toks31
-\pgffor@toks=\toks32
+\pgffor@iter=\dimen133
+\pgffor@skip=\dimen134
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
 )
-\psLoopIndex=\count156
+\psLoopIndex=\count158
 
 `PSTricks' v2.64b  <2015/14/11> (tvz)
-\pst@dima=\dimen131
-\pst@dimb=\dimen132
-\pst@dimc=\dimen133
-\pst@dimd=\dimen134
-\pst@dimg=\dimen135
-\pst@dimh=\dimen136
-\pst@dimm=\dimen137
-\pst@dimn=\dimen138
-\pst@dimo=\dimen139
-\pst@dimp=\dimen140
-\pst@hbox=\box29
-\pst@ibox=\box30
-\pst@boxg=\box31
-\pst@cnta=\count157
-\pst@cntb=\count158
-\pst@cntc=\count159
-\pst@cntd=\count160
-\pst@cntg=\count161
-\pst@cnth=\count162
-\pst@cntm=\count163
-\pst@cntn=\count164
-\pst@cnto=\count165
-\pst@cntp=\count166
-\@zero=\count167
-\pst@toks=\toks33
+\pst@dima=\dimen135
+\pst@dimb=\dimen136
+\pst@dimc=\dimen137
+\pst@dimd=\dimen138
+\pst@dimg=\dimen139
+\pst@dimh=\dimen140
+\pst@dimm=\dimen141
+\pst@dimn=\dimen142
+\pst@dimo=\dimen143
+\pst@dimp=\dimen144
+\pst@hbox=\box30
+\pst@ibox=\box31
+\pst@boxg=\box32
+\pst@cnta=\count159
+\pst@cntb=\count160
+\pst@cntc=\count161
+\pst@cntd=\count162
+\pst@cntg=\count163
+\pst@cnth=\count164
+\pst@cntm=\count165
+\pst@cntn=\count166
+\pst@cnto=\count167
+\pst@cntp=\count168
+\@zero=\count169
+\pst@toks=\toks37
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con)
-\psunit=\dimen141
-\psxunit=\dimen142
-\psyunit=\dimen143
-\pst@C@@rType=\count168
-\pslinewidth=\dimen144
-\psk@startLW=\dimen145
-\psk@endLW=\dimen146
-\pst@customdefs=\toks34
-\pslinearc=\dimen147
-\pst@symbolStep=\dimen148
-\pst@symbolWidth=\dimen149
-\pst@symbolLinewidth=\dimen150
-\everypsbox=\toks35
-\psframesep=\dimen151
-\pslabelsep=\dimen152
-\sh@wgridXunit=\dimen153
-\sh@wgridYunit=\dimen154
-\pst@shift=\dimen155
+\psunit=\dimen145
+\psxunit=\dimen146
+\psyunit=\dimen147
+\pst@C@@rType=\count170
+\pslinewidth=\dimen148
+\psk@startLW=\dimen149
+\psk@endLW=\dimen150
+\pst@customdefs=\toks38
+\pslinearc=\dimen151
+\pst@symbolStep=\dimen152
+\pst@symbolWidth=\dimen153
+\pst@symbolLinewidth=\dimen154
+\everypsbox=\toks39
+\psframesep=\dimen155
+\pslabelsep=\dimen156
+\sh@wgridXunit=\dimen157
+\sh@wgridYunit=\dimen158
+\pst@shift=\dimen159
 )
 File: pstricks.tex 2015/14/11 v2.64b `PSTricks' (tvz,hv)
 
@@ -690,9 +728,9 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
 (/usr/share/texlive/texmf-dist/tex/generic/multido/multido.tex
  v1.42, 2010/05/14 <tvz>
-\multido@count=\count169
-\multidocount=\count170
-\multido@stuff=\toks36
+\multido@count=\count171
+\multidocount=\count172
+\multido@stuff=\toks40
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
@@ -701,26 +739,26 @@ Package: pst-plot 2011/04/13 package wrapper for pst-plot.tex (hv)
 (/usr/share/texlive/texmf-dist/tex/generic/pst-plot/pst-plot.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pst-tools/pst-tools.tex
 `PST-tools' v0.05, 2014/05/12 (hv))  v1.70, 2014/08/23 (tvz,hv)
-\pstRadUnit=\dimen156
-\pstRadUnitInv=\dimen157
-\pst@linecnt=\count171
+\pstRadUnit=\dimen160
+\pstRadUnitInv=\dimen161
+\pst@linecnt=\count173
 \RCD@file=\read2
-\psxlabelsep=\dimen158
-\psylabelsep=\dimen159
-\psk@subticksize=\dimen160
-\pst@xticksizeA=\dimen161
-\pst@xticksizeB=\dimen162
-\pst@xticksizeC=\dimen163
-\pst@yticksizeA=\dimen164
-\pst@yticksizeB=\dimen165
-\pst@yticksizeC=\dimen166
-\@digitcounter=\count172
-\psk@llx=\dimen167
-\psk@lly=\dimen168
-\psk@urx=\dimen169
-\psk@ury=\dimen170
-\pst@xunit=\dimen171
-\pst@yunit=\dimen172
+\psxlabelsep=\dimen162
+\psylabelsep=\dimen163
+\psk@subticksize=\dimen164
+\pst@xticksizeA=\dimen165
+\pst@xticksizeB=\dimen166
+\pst@xticksizeC=\dimen167
+\pst@yticksizeA=\dimen168
+\pst@yticksizeB=\dimen169
+\pst@yticksizeC=\dimen170
+\@digitcounter=\count174
+\psk@llx=\dimen171
+\psk@lly=\dimen172
+\psk@urx=\dimen173
+\psk@ury=\dimen174
+\pst@xunit=\dimen175
+\pst@yunit=\dimen176
 )
 File: pst-plot.tex 2014/08/23 1.70 `pst-plot' (tvz,hv)
 )
@@ -730,14 +768,14 @@ Package: pst-node 2010/04/22 package wrapper for pst-node.tex
 
 (/usr/share/texlive/texmf-dist/tex/generic/pst-node/pst-node.tex
  v1.35, 2014/08/04
-\psrow=\count173
-\pscol=\count174
-\psmatrixcnt=\count175
-\psrowsep=\skip49
-\pscolsep=\skip50
-\pst@args=\count176
-\num@pts=\count177
-\pst@argcnt=\count178
+\psrow=\count175
+\pscol=\count176
+\psmatrixcnt=\count177
+\psrowsep=\skip53
+\pscolsep=\skip54
+\pst@args=\count178
+\num@pts=\count179
+\pst@argcnt=\count180
 )
 File: pst-node.tex 2014/08/04 1.35 `pst-node' (tvz,hv)
 )
@@ -746,13 +784,13 @@ Package: pst-tree 2009/01/25 package wrapper for pst-tree.tex
 
 (/usr/share/texlive/texmf-dist/tex/generic/pst-tree/pst-tree.tex
  v1.12, 2011/02/28(tvz,dg,hv)
-\pstree@rootbox=\box32
-\pstree@box=\box33
-\psnodecnt=\count179
-\pstreelevel=\count180
-\pstreecnt=\count181
-\pstree@cnt=\count182
-\pstree@stop=\count183
+\pstree@rootbox=\box33
+\pstree@box=\box34
+\psnodecnt=\count181
+\pstreelevel=\count182
+\pstreecnt=\count183
+\pstree@cnt=\count184
+\pstree@stop=\count185
 )
 File: pst-tree.tex 2011/02/28 1.12 `pst-tree' (tvz,hv)
 )
@@ -800,7 +838,7 @@ Package: pst-fill 2005/09/13 package wrapper for pst-fill.tex (hv)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pst-fill/pst-fill.tex
 `PST-Fill' v1.01, 2007/03/10 (tvz,dg,hv)
-\pst@fillbox=\box34
+\pst@fillbox=\box35
 )
 File: pst-fill.tex 2007/03/10 v1.01 `PST-fill' (tvz,dg)
 )
@@ -817,17 +855,17 @@ hv)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex
 `pstricks-add' v3.79, 2016/02/09 (dr,hv)
-\psparallelogramsep=\dimen173
-\pshooklength=\dimen174
-\pshookwidth=\dimen175
-\pst@cntC=\count184
-\chart@ColorIndex=\dimen176
-\chart@ColorStep=\dimen177
-\pst@chartHeight=\dimen178
-\pst@chartStackDepth=\dimen179
-\pst@chartStackWidth=\dimen180
-\chart@Toggle=\count185
-\psVectorCtr=\count186
+\psparallelogramsep=\dimen177
+\pshooklength=\dimen178
+\pshookwidth=\dimen179
+\pst@cntC=\count186
+\chart@ColorIndex=\dimen180
+\chart@ColorStep=\dimen181
+\pst@chartHeight=\dimen182
+\pst@chartStackDepth=\dimen183
+\pst@chartStackWidth=\dimen184
+\chart@Toggle=\count187
+\psVectorCtr=\count188
 )
 File: pstricks-add.tex 2016/02/09 v3.79 `PSTricks-add' (hv)
 Package pstricks-add Info: Local config file pstricks-add.cfg used on input lin
@@ -856,8 +894,8 @@ File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 95.
 )
-\Gin@req@height=\dimen181
-\Gin@req@width=\dimen182
+\Gin@req@height=\dimen185
+\Gin@req@width=\dimen186
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
@@ -865,15 +903,15 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen183
-\captionmargin@=\dimen184
-\captionwidth=\dimen185
-\caption@tempdima=\dimen186
-\caption@indent=\dimen187
-\caption@parindent=\dimen188
-\caption@hangindent=\dimen189
+\captionmargin=\dimen187
+\captionmargin@=\dimen188
+\captionwidth=\dimen189
+\caption@tempdima=\dimen190
+\caption@indent=\dimen191
+\caption@parindent=\dimen192
+\caption@hangindent=\dimen193
 )
-\c@ContinuedFloat=\count187
+\c@ContinuedFloat=\count189
 Package caption Info: listings package is loaded.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -928,16 +966,16 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen190
-\Hy@linkcounter=\count188
-\Hy@pagecounter=\count189
+\@linkdim=\dimen194
+\Hy@linkcounter=\count190
+\Hy@pagecounter=\count191
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count190
+\Hy@SavedSpaceFactor=\count192
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -950,12 +988,12 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count191
+\c@Hy@tempcnt=\count193
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen191
-\Fld@menulength=\count192
-\Field@Width=\dimen192
-\Fld@charsize=\dimen193
+\XeTeXLinkMargin=\dimen195
+\Fld@menulength=\count194
+\Field@Width=\dimen196
+\Fld@charsize=\dimen197
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -965,38 +1003,30 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count193
-\c@Item=\count194
-\c@Hfootnote=\count195
+\Hy@abspage=\count195
+\c@Item=\count196
+\c@Hfootnote=\count197
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count196
-\c@bookmark@seq@number=\count197
+\Fld@listcount=\count198
+\c@bookmark@seq@number=\count199
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip51
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen194
-\extrarowheight=\dimen195
-\NC@list=\toks37
-\extratabsurround=\skip52
-\backup@length=\skip53
+\Hy@SectionHShift=\skip55
 )
 (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count198
-\c@@ppsavesec=\count199
-\c@@ppsaveapp=\count266
+\c@@pps=\count266
+\c@@ppsavesec=\count267
+\c@@ppsaveapp=\count268
 )
 (/usr/share/texlive/texmf-dist/tex/latex/auto-pst-pdf/auto-pst-pdf.sty
 Package: auto-pst-pdf 2009/04/26 v0.6 Wrapper for pst-pdf
@@ -1012,18 +1042,18 @@ Package ifplatform Warning:
     shell escape is disabled, so I can only detect \ifwindows.
 
 )
-\c@app@runs=\count267
+\c@app@runs=\count269
  (/usr/share/texlive/texmf-dist/tex/latex/pst-pdf/pst-pdf.sty
 Package: pst-pdf 2008/10/09 v1.1v PS graphics for pdfLaTeX (RN,HjG)
-\c@pspicture=\count268
+\c@pspicture=\count270
 Package pst-pdf Info: MODE: 1 (pdfTeX mode) on input line 214.
-\ppf@output=\toks38
+\ppf@output=\toks41
 
 (/usr/share/texmf/tex/latex/preview/preview.sty
 Package: preview 2010/02/14 11.88 (AUCTeX/preview-latex)
-\pr@snippet=\count269
-\pr@box=\box35
-\pr@output=\toks39
+\pr@snippet=\count271
+\pr@box=\box36
+\pr@output=\toks42
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
 File: dvips.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
@@ -1034,38 +1064,42 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks40
+\@envbody=\toks43
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip54
-\f@ncyO@elh=\skip55
-\f@ncyO@erh=\skip56
-\f@ncyO@olh=\skip57
-\f@ncyO@orh=\skip58
-\f@ncyO@elf=\skip59
-\f@ncyO@erf=\skip60
-\f@ncyO@olf=\skip61
-\f@ncyO@orf=\skip62
-) (./archimsa.aux)
+\fancy@headwidth=\skip56
+\f@ncyO@elh=\skip57
+\f@ncyO@erh=\skip58
+\f@ncyO@olh=\skip59
+\f@ncyO@orh=\skip60
+\f@ncyO@elf=\skip61
+\f@ncyO@erf=\skip62
+\f@ncyO@olf=\skip63
+\f@ncyO@orf=\skip64
+) (./archimsa.aux
+
+LaTeX Warning: Label `tab6' multiply defined.
+
+)
 \openout1 = `archimsa.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Info: Redefining \degres on input line 63.
-LaTeX Info: Redefining \dots on input line 63.
-LaTeX Info: Redefining \up on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Info: Redefining \degres on input line 71.
+LaTeX Info: Redefining \dots on input line 71.
+LaTeX Info: Redefining \up on input line 71.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1103,35 +1137,35 @@ LaTeX Info: Redefining \up on input line 63.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count270
-\scratchdimen=\dimen196
-\scratchbox=\box36
-\nofMPsegments=\count271
-\nofMParguments=\count272
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count273
-\MPscratchDim=\dimen197
-\MPnumerator=\count274
-\makeMPintoPDFobject=\count275
-\everyMPtoPDFconversion=\toks42
+\scratchcounter=\count272
+\scratchdimen=\dimen198
+\scratchbox=\box37
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen199
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks45
 )
-\c@lstlisting=\count276
-\AtBeginShipoutBox=\box37
+\c@lstlisting=\count278
+\AtBeginShipoutBox=\box38
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 63.
+Package hyperref Info: Link coloring ON on input line 71.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count277
+\c@section@level=\count279
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
 
 (./archimsa.out) (./archimsa.out)
 \@outlinefile=\write5
@@ -1140,45 +1174,47 @@ LaTeX Info: Redefining \nameref on input line 63.
 
 Preview: Fontsize 12pt
 Preview: PDFoutput 1
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 88.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 96.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-<parisx.jpg, id=120, 350.30875pt x 76.285pt>
+<parisx.jpg, id=156, 350.30875pt x 76.285pt>
 File: parisx.jpg Graphic file (type jpg)
  <use parisx.jpg>
-Package pdftex.def Info: parisx.jpg used on input line 93.
+Package pdftex.def Info: parisx.jpg used on input line 101.
 (pdftex.def)             Requested size: 175.15395pt x 38.1424pt.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 95.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 103.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <20.74> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 95.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 103.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <17.28> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 97.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 105.
 
-<fourmies.jpg, id=121, 736.7525pt x 501.875pt>
+<fourmies.jpg, id=157, 736.7525pt x 501.875pt>
 File: fourmies.jpg Graphic file (type jpg)
  <use fourmies.jpg>
-Package pdftex.def Info: fourmies.jpg used on input line 104.
+Package pdftex.def Info: fourmies.jpg used on input line 112.
 (pdftex.def)             Requested size: 221.02745pt x 150.56366pt.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 110.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 118.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 113.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 113.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 113.
-[1
+LaTeX Font Info:    Try loading font information for U+msa on input line 121.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 121.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
 
 
 Non-PDF special ignored!
@@ -1186,22 +1222,22 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./
 parisx.jpg> <./fourmies.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
@@ -1209,30 +1245,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.151 \chapter
+l.159 \chapter
               *{DÃ©dicaces} [1
 
 ] [2
 
-] (./archimsa.toc)
+] (./archimsa.toc [3
+
+])
 \tf@toc=\write6
 \openout6 = `archimsa.toc'.
 
- [3
-
-] (./archimsa.lof)
+ [4] (./archimsa.lof)
 \tf@lof=\write7
 \openout7 = `archimsa.lof'.
 
 
-[4
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
-
- []
-
 [5
+
+] (./archimsa.lot)
+\tf@lot=\write8
+\openout8 = `archimsa.lot'.
+
+ [6
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 183--184
@@ -1244,743 +1279,1141 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
-[6
 
-]
-Chapitre 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--200
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--200
-
- []
-
-<exemple_archi_1.png, id=255, 770.88pt x 448.67625pt>
-File: exemple_archi_1.png Graphic file (type png)
-
-<use exemple_archi_1.png>
-Package pdftex.def Info: exemple_archi_1.png used on input line 201.
-(pdftex.def)             Requested size: 385.43906pt x 224.33757pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 202.
-See the caption package documentation for explanation.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
 
 [7
 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+[8
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+[9
+
+] [10]
+Chapitre 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
+
+ []
+
+<exemple_archi_1.png, id=341, 770.88pt x 448.67625pt>
+File: exemple_archi_1.png Graphic file (type png)
+
+<use exemple_archi_1.png>
+Package pdftex.def Info: exemple_archi_1.png used on input line 244.
+(pdftex.def)             Requested size: 385.43906pt x 224.33757pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 245.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+[11
+
  <./exemple_archi_1.png>]
-<evolution_archi_7.png, id=265, 1069.9975pt x 329.23pt>
+<evolution_archi_7.png, id=352, 1069.9975pt x 329.23pt>
 File: evolution_archi_7.png Graphic file (type png)
 
 <use evolution_archi_7.png>
-Package pdftex.def Info: evolution_archi_7.png used on input line 228.
+Package pdftex.def Info: evolution_archi_7.png used on input line 271.
 (pdftex.def)             Requested size: 374.50473pt x 115.23222pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 229.
+(caption)                particular \caption on input line 272.
 See the caption package documentation for explanation.
 
-[8 <./evolution_archi_7.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 239.
+[12 <./evolution_archi_7.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 282.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 239.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 282.
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--260
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
-[9] <pipe_line_8.png, id=288, 1064.97874pt x 223.83624pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+[13] <pipe_line_8.png, id=374, 1064.97874pt x 223.83624pt>
 File: pipe_line_8.png Graphic file (type png)
 
 <use pipe_line_8.png>
-Package pdftex.def Info: pipe_line_8.png used on input line 267.
+Package pdftex.def Info: pipe_line_8.png used on input line 310.
 (pdftex.def)             Requested size: 319.4961pt x 67.15138pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 268.
+(caption)                particular \caption on input line 311.
 See the caption package documentation for explanation.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 274.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 274.
-<style_couche_9.png, id=292, 920.43875pt x 439.6425pt>
+<style_couche_9.png, id=378, 920.43875pt x 439.6425pt>
 File: style_couche_9.png Graphic file (type png)
 
 <use style_couche_9.png>
-Package pdftex.def Info: style_couche_9.png used on input line 280.
+Package pdftex.def Info: style_couche_9.png used on input line 323.
 (pdftex.def)             Requested size: 276.13376pt x 131.89375pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 281.
+(caption)                particular \caption on input line 324.
 See the caption package documentation for explanation.
 
-[10 <./pipe_line_8.png> <./style_couche_9.png>]
+[14 <./pipe_line_8.png> <./style_couche_9.png>]
 Chapitre 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
 
  []
 
-[11
+[15
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
 
  []
 
-<version_contrat_2.png, id=311, 725.71124pt x 218.8175pt>
+<version_contrat_2.png, id=396, 725.71124pt x 218.8175pt>
 File: version_contrat_2.png Graphic file (type png)
 
 <use version_contrat_2.png>
-Package pdftex.def Info: version_contrat_2.png used on input line 328.
+Package pdftex.def Info: version_contrat_2.png used on input line 371.
 (pdftex.def)             Requested size: 377.37202pt x 113.78575pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 329.
-See the caption package documentation for explanation.
-
-[12]
-<reactivite_disponibilite_service_3.png, id=319, 926.46124pt x 278.03876pt>
-File: reactivite_disponibilite_service_3.png Graphic file (type png)
-
-<use reactivite_disponibilite_service_3.png>
-Package pdftex.def Info: reactivite_disponibilite_service_3.png used on input l
-ine 339.
-(pdftex.def)             Requested size: 370.57793pt x 111.21352pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 340.
-See the caption package documentation for explanation.
-
-[13 <./version_contrat_2.png> <./reactivite_disponibilite_service_3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 366--367
-
- []
-
-<decentra_db_25.png, id=335, 990.70125pt x 506.89375pt>
-File: decentra_db_25.png Graphic file (type png)
-
-<use decentra_db_25.png>
-Package pdftex.def Info: decentra_db_25.png used on input line 371.
-(pdftex.def)             Requested size: 412.56946pt x 142.26187pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 372.
 See the caption package documentation for explanation.
 
-[14 <./decentra_db_25.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+[16]
+<reactivite_disponibilite_service_3.png, id=403, 926.46124pt x 278.03876pt>
+File: reactivite_disponibilite_service_3.png Graphic file (type png)
+
+<use reactivite_disponibilite_service_3.png>
+Package pdftex.def Info: reactivite_disponibilite_service_3.png used on input l
+ine 382.
+(pdftex.def)             Requested size: 370.57793pt x 111.21352pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 383.
+See the caption package documentation for explanation.
+
+[17 <./version_contrat_2.png> <./reactivite_disponibilite_service_3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
 
  []
 
-[15] <classif_soa_4.png, id=353, 706.64pt x 533.995pt>
+<decentra_db_25.png, id=418, 990.70125pt x 506.89375pt>
+File: decentra_db_25.png Graphic file (type png)
+
+<use decentra_db_25.png>
+Package pdftex.def Info: decentra_db_25.png used on input line 414.
+(pdftex.def)             Requested size: 412.56946pt x 142.26187pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 415.
+See the caption package documentation for explanation.
+
+[18 <./decentra_db_25.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+
+ []
+
+[19] <classif_soa_4.png, id=437, 706.64pt x 533.995pt>
 File: classif_soa_4.png Graphic file (type png)
  <use classif_soa_4.png>
-Package pdftex.def Info: classif_soa_4.png used on input line 415.
+Package pdftex.def Info: classif_soa_4.png used on input line 458.
 (pdftex.def)             Requested size: 369.89175pt x 193.47656pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 416.
+(caption)                particular \caption on input line 459.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
 
  []
 
-<classif_msa_5.png, id=356, 758.835pt x 464.73625pt>
+<classif_msa_5.png, id=440, 758.835pt x 464.73625pt>
 File: classif_msa_5.png Graphic file (type png)
  <use classif_msa_5.png>
-Package pdftex.def Info: classif_msa_5.png used on input line 427.
+Package pdftex.def Info: classif_msa_5.png used on input line 470.
 (pdftex.def)             Requested size: 341.43787pt x 156.4836pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 428.
+(caption)                particular \caption on input line 471.
 See the caption package documentation for explanation.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
+[20 <./classif_soa_4.png> <./classif_msa_5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 478--479
 
  []
 
-[16 <./classif_soa_4.png> <./classif_msa_5.png>]
-Overfull \hbox (9.54437pt too wide) in paragraph at lines 437--438
+
+Overfull \hbox (9.54437pt too wide) in paragraph at lines 480--481
 []\T1/cmr/m/n/12 On a vu au pa-ra-graphe pré-cé-dant la li-mi-ta-tion de la cla
 s-si-fi-ca-tion des MSA(infra,
  []
 
-<detenteur_service_msa_6.png, id=363, 562.1pt x 363.3575pt>
+<detenteur_service_msa_6.png, id=447, 562.1pt x 363.3575pt>
 File: detenteur_service_msa_6.png Graphic file (type png)
 
 <use detenteur_service_msa_6.png>
-Package pdftex.def Info: detenteur_service_msa_6.png used on input line 442.
+Package pdftex.def Info: detenteur_service_msa_6.png used on input line 485.
 (pdftex.def)             Requested size: 312.98128pt x 142.26328pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 443.
+(caption)                particular \caption on input line 486.
 See the caption package documentation for explanation.
 
-[17 <./detenteur_service_msa_6.png>]
-<impact_perform_10.png, id=373, 1013.7875pt x 326.21875pt>
+[21 <./detenteur_service_msa_6.png>]
+<impact_perform_10.png, id=456, 1013.7875pt x 326.21875pt>
 File: impact_perform_10.png Graphic file (type png)
 
 <use impact_perform_10.png>
-Package pdftex.def Info: impact_perform_10.png used on input line 465.
+Package pdftex.def Info: impact_perform_10.png used on input line 508.
 (pdftex.def)             Requested size: 385.24326pt x 123.9644pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 466.
+(caption)                particular \caption on input line 509.
 See the caption package documentation for explanation.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 470--471
-
- []
-
-<impact_transac_11.png, id=375, 871.255pt x 534.99875pt>
-File: impact_transac_11.png Graphic file (type png)
-
-<use impact_transac_11.png>
-Package pdftex.def Info: impact_transac_11.png used on input line 474.
-(pdftex.def)             Requested size: 304.94382pt x 187.25237pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 475.
-See the caption package documentation for explanation.
-
-[18 <./impact_perform_10.png> <./impact_transac_11.png>]
-<impact_transac_12.png, id=383, 1008.76875pt x 519.9425pt>
-File: impact_transac_12.png Graphic file (type png)
-
-<use impact_transac_12.png>
-Package pdftex.def Info: impact_transac_12.png used on input line 483.
-(pdftex.def)             Requested size: 332.89471pt x 171.58156pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 484.
-See the caption package documentation for explanation.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 490--491
-
- []
-
-<compos_partag1_13.png, id=385, 1059.96pt x 488.82625pt>
-File: compos_partag1_13.png Graphic file (type png)
-
-<use compos_partag1_13.png>
-Package pdftex.def Info: compos_partag1_13.png used on input line 497.
-(pdftex.def)             Requested size: 317.99045pt x 146.649pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 498.
-See the caption package documentation for explanation.
-
-[19 <./impact_transac_12.png> <./compos_partag1_13.png>]
-<compos_paratag2_14.png, id=391, 1069.9975pt x 494.84875pt>
-File: compos_paratag2_14.png Graphic file (type png)
-
-<use compos_paratag2_14.png>
-Package pdftex.def Info: compos_paratag2_14.png used on input line 506.
-(pdftex.def)             Requested size: 321.00172pt x 148.45576pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 507.
-See the caption package documentation for explanation.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--512
-
- []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 513--514
 
  []
 
+<impact_transac_11.png, id=458, 871.255pt x 534.99875pt>
+File: impact_transac_11.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 515--516
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 520--521
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 522--523
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 524--525
-
- []
-
-<service_orchestra_15.png, id=394, 857.2025pt x 316.18124pt>
-File: service_orchestra_15.png Graphic file (type png)
-
-<use service_orchestra_15.png>
-Package pdftex.def Info: service_orchestra_15.png used on input line 528.
-(pdftex.def)             Requested size: 257.16273pt x 94.8551pt.
+<use impact_transac_11.png>
+Package pdftex.def Info: impact_transac_11.png used on input line 517.
+(pdftex.def)             Requested size: 304.94382pt x 187.25237pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 529.
+(caption)                particular \caption on input line 518.
 See the caption package documentation for explanation.
 
-[20 <./compos_paratag2_14.png>]
+[22 <./impact_perform_10.png> <./impact_transac_11.png>]
+<impact_transac_12.png, id=467, 1008.76875pt x 519.9425pt>
+File: impact_transac_12.png Graphic file (type png)
+
+<use impact_transac_12.png>
+Package pdftex.def Info: impact_transac_12.png used on input line 526.
+(pdftex.def)             Requested size: 332.89471pt x 171.58156pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 527.
+See the caption package documentation for explanation.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 533--534
 
  []
 
-<service_choreg_16.png, id=401, 1013.7875pt x 320.19624pt>
+<compos_partag1_13.png, id=469, 1059.96pt x 488.82625pt>
+File: compos_partag1_13.png Graphic file (type png)
+
+<use compos_partag1_13.png>
+Package pdftex.def Info: compos_partag1_13.png used on input line 540.
+(pdftex.def)             Requested size: 317.99045pt x 146.649pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 541.
+See the caption package documentation for explanation.
+
+[23 <./impact_transac_12.png> <./compos_partag1_13.png>]
+<compos_paratag2_14.png, id=475, 1069.9975pt x 494.84875pt>
+File: compos_paratag2_14.png Graphic file (type png)
+
+<use compos_paratag2_14.png>
+Package pdftex.def Info: compos_paratag2_14.png used on input line 549.
+(pdftex.def)             Requested size: 321.00172pt x 148.45576pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 550.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--566
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
+
+ []
+
+<service_orchestra_15.png, id=478, 857.2025pt x 316.18124pt>
+File: service_orchestra_15.png Graphic file (type png)
+
+<use service_orchestra_15.png>
+Package pdftex.def Info: service_orchestra_15.png used on input line 571.
+(pdftex.def)             Requested size: 257.16273pt x 94.8551pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 572.
+See the caption package documentation for explanation.
+
+[24 <./compos_paratag2_14.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 576--577
+
+ []
+
+<service_choreg_16.png, id=486, 1013.7875pt x 320.19624pt>
 File: service_choreg_16.png Graphic file (type png)
 
 <use service_choreg_16.png>
-Package pdftex.def Info: service_choreg_16.png used on input line 539.
+Package pdftex.def Info: service_choreg_16.png used on input line 582.
 (pdftex.def)             Requested size: 304.1386pt x 96.0596pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 540.
+(caption)                particular \caption on input line 583.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 544--545
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 546--547
+Underfull \hbox (badness 10000) in paragraph at lines 589--590
 
  []
 
-<topologie_msa_17.png, id=404, 1017.8025pt x 738.76pt>
+<topologie_msa_17.png, id=489, 1017.8025pt x 738.76pt>
 File: topologie_msa_17.png Graphic file (type png)
 
 <use topologie_msa_17.png>
-Package pdftex.def Info: topologie_msa_17.png used on input line 550.
+Package pdftex.def Info: topologie_msa_17.png used on input line 593.
 (pdftex.def)             Requested size: 305.34311pt x 221.6297pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 551.
+(caption)                particular \caption on input line 594.
 See the caption package documentation for explanation.
 
-[21 <./service_orchestra_15.png> <./service_choreg_16.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 555--556
+[25 <./service_orchestra_15.png> <./service_choreg_16.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--562
+Underfull \hbox (badness 10000) in paragraph at lines 604--605
 
  []
 
-<fusion_service_18.png, id=410, 921.4425pt x 319.1925pt>
+<fusion_service_18.png, id=495, 921.4425pt x 319.1925pt>
 File: fusion_service_18.png Graphic file (type png)
 
 <use fusion_service_18.png>
-Package pdftex.def Info: fusion_service_18.png used on input line 565.
+Package pdftex.def Info: fusion_service_18.png used on input line 608.
 (pdftex.def)             Requested size: 276.43488pt x 95.75848pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 566.
+(caption)                particular \caption on input line 609.
 See the caption package documentation for explanation.
 
-[22 <./topologie_msa_17.png> <./fusion_service_18.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 575--576
+[26 <./topologie_msa_17.png> <./fusion_service_18.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 581--582
+Underfull \hbox (badness 10000) in paragraph at lines 624--625
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--584
+Underfull \hbox (badness 10000) in paragraph at lines 626--627
 
  []
 
-<convers_protoco_19.png, id=416, 1049.9225pt x 303.1325pt>
+<convers_protoco_19.png, id=501, 1049.9225pt x 303.1325pt>
 File: convers_protoco_19.png Graphic file (type png)
 
 <use convers_protoco_19.png>
-Package pdftex.def Info: convers_protoco_19.png used on input line 587.
+Package pdftex.def Info: convers_protoco_19.png used on input line 630.
 (pdftex.def)             Requested size: 314.97917pt x 90.94044pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 588.
+(caption)                particular \caption on input line 631.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--593
+Underfull \hbox (badness 10000) in paragraph at lines 635--636
 
  []
 
-<annuaire_20.png, id=418, 1046.91125pt x 320.19624pt>
+<annuaire_20.png, id=503, 1046.91125pt x 320.19624pt>
 File: annuaire_20.png Graphic file (type png)
  <use annuaire_20.png>
-Package pdftex.def Info: annuaire_20.png used on input line 596.
+Package pdftex.def Info: annuaire_20.png used on input line 639.
 (pdftex.def)             Requested size: 314.0758pt x 96.0596pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 597.
+(caption)                particular \caption on input line 640.
 See the caption package documentation for explanation.
 
-[23 <./convers_protoco_19.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 601--602
+[27 <./convers_protoco_19.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 601--602
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
 
  []
 
-<convers_msg_21.png, id=424, 1035.87pt x 210.7875pt>
+<convers_msg_21.png, id=509, 1035.87pt x 210.7875pt>
 File: convers_msg_21.png Graphic file (type png)
  <use convers_msg_21.png>
-Package pdftex.def Info: convers_msg_21.png used on input line 605.
+Package pdftex.def Info: convers_msg_21.png used on input line 648.
 (pdftex.def)             Requested size: 310.7634pt x 63.23672pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 606.
+(caption)                particular \caption on input line 649.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 610--611
+Underfull \hbox (badness 10000) in paragraph at lines 653--654
 
  []
 
-<intercomm_msg_26.png, id=427, 752.8125pt x 347.2975pt>
+<intercomm_msg_26.png, id=512, 752.8125pt x 347.2975pt>
 File: intercomm_msg_26.png Graphic file (type png)
 
 <use intercomm_msg_26.png>
-Package pdftex.def Info: intercomm_msg_26.png used on input line 618.
+Package pdftex.def Info: intercomm_msg_26.png used on input line 660.
 (pdftex.def)             Requested size: 225.84549pt x 104.19005pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 619.
+(caption)                particular \caption on input line 661.
 See the caption package documentation for explanation.
 
-[24 <./annuaire_20.png> <./convers_msg_21.png> <./intercomm_msg_26.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 634--635
+[28 <./annuaire_20.png> <./convers_msg_21.png> <./intercomm_msg_26.png>]
+Chapitre 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--674
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 682.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [29
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 710--711
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--637
+Underfull \hbox (badness 10000) in paragraph at lines 712--713
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 638--639
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 745.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (9.95386pt too wide) in paragraph at lines 719--745
+ [] 
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
 
  []
 
-[25
 
-] [26
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 783.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (5.30914pt too wide) in paragraph at lines 764--783
+ [] 
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--805
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 829.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (50.50362pt too wide) in paragraph at lines 811--829
+ [] 
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 833--834
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 856.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (9.12036pt too wide) in paragraph at lines 838--856
+ [] 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 895.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (16.44394pt too wide) in paragraph at lines 870--895
+ [] 
+ []
+
+[33]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 920.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--925
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 926--927
+
+ []
+
+[34]
+
+Package xcolor Warning: Incompatible color definition on input line 933.
+
+
+Package xcolor Warning: Incompatible color definition on input line 933.
+
+
+Package xcolor Warning: Incompatible color definition on input line 933.
+
+
+Package xcolor Warning: Incompatible color definition on input line 934.
+
+
+Package xcolor Warning: Incompatible color definition on input line 934.
+
+
+Package xcolor Warning: Incompatible color definition on input line 934.
+
+
+Package xcolor Warning: Incompatible color definition on input line 934.
+
+
+Package xcolor Warning: Incompatible color definition on input line 934.
+
+
+Package xcolor Warning: Incompatible color definition on input line 934.
+
+
+Package xcolor Warning: Incompatible color definition on input line 934.
+
+
+Package xcolor Warning: Incompatible color definition on input line 934.
+
+
+Package xcolor Warning: Incompatible color definition on input line 935.
+
+
+Package xcolor Warning: Incompatible color definition on input line 935.
+
+
+Package xcolor Warning: Incompatible color definition on input line 939.
+
+
+Package xcolor Warning: Incompatible color definition on input line 939.
+
+
+Package xcolor Warning: Incompatible color definition on input line 939.
+
+
+Package xcolor Warning: Incompatible color definition on input line 939.
+
+
+Package xcolor Warning: Incompatible color definition on input line 939.
+
+
+Package xcolor Warning: Incompatible color definition on input line 939.
+
+
+Overfull \hbox (18.60262pt too wide) in paragraph at lines 939--940
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 944--945
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 951.
+
+
+Package xcolor Warning: Incompatible color definition on input line 951.
+
+
+Package xcolor Warning: Incompatible color definition on input line 951.
+
+
+Package xcolor Warning: Incompatible color definition on input line 952.
+
+
+Package xcolor Warning: Incompatible color definition on input line 952.
+
+
+Package xcolor Warning: Incompatible color definition on input line 952.
+
+
+Package xcolor Warning: Incompatible color definition on input line 952.
+
+
+Package xcolor Warning: Incompatible color definition on input line 952.
+
+
+Package xcolor Warning: Incompatible color definition on input line 952.
+
+
+Package xcolor Warning: Incompatible color definition on input line 952.
+
+
+Package xcolor Warning: Incompatible color definition on input line 952.
+
+
+Package xcolor Warning: Incompatible color definition on input line 953.
+
+
+Package xcolor Warning: Incompatible color definition on input line 953.
+
+
+Package xcolor Warning: Incompatible color definition on input line 960.
+
+
+Package xcolor Warning: Incompatible color definition on input line 960.
+
+
+Package xcolor Warning: Incompatible color definition on input line 960.
+
+
+Package xcolor Warning: Incompatible color definition on input line 960.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 969--970
+
+ []
+
+[35]
+
+Package xcolor Warning: Incompatible color definition on input line 982.
+
+
+Package xcolor Warning: Incompatible color definition on input line 982.
+
+
+Package xcolor Warning: Incompatible color definition on input line 982.
+
+
+Package xcolor Warning: Incompatible color definition on input line 982.
+
+
+Package xcolor Warning: Incompatible color definition on input line 982.
+
+
+Package xcolor Warning: Incompatible color definition on input line 982.
+
+
+Package xcolor Warning: Incompatible color definition on input line 983.
+
+
+Package xcolor Warning: Incompatible color definition on input line 983.
+
+
+Package xcolor Warning: Incompatible color definition on input line 983.
+
+
+Package xcolor Warning: Incompatible color definition on input line 983.
+
+
+Package xcolor Warning: Incompatible color definition on input line 983.
+
+
+Package xcolor Warning: Incompatible color definition on input line 983.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 991--992
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 995--996
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 997--998
+
+ []
+
+[36]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1018.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1023
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1029
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1033
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
+
+ []
+
+
+Overfull \hbox (1.25174pt too wide) in paragraph at lines 1036--1037
+\T1/cmr/m/n/12 Djava.util.logging.config.file="/home/myApp/config/myLogging.pro
+perties", qui
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1037
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1039
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1041
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1043
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1045
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1045
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1048
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1058
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1060
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1062
+
+ []
+
+[39
+
+] [40
 
 
 ]
 Annexe A.
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--648
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1071
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--650
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1073
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 651--652
+Underfull \hbox (badness 10000) in paragraph at lines 1074--1075
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 655.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [27
+[41
 
 ]
-Overfull \hbox (16.78139pt too wide) in paragraph at lines 685--686
+Overfull \hbox (16.78139pt too wide) in paragraph at lines 1108--1109
 []\T1/cmr/m/n/12 Maintenant, on code nos classes java, notre classe prin-ci-pal
 e \T1/cmr/m/it/12 Exem-pleM-sApp.java \T1/cmr/m/n/12 : 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 697.
+Package xcolor Warning: Incompatible color definition on input line 1120.
 
 
-Package xcolor Warning: Incompatible color definition on input line 697.
+Package xcolor Warning: Incompatible color definition on input line 1120.
 
 
-Package xcolor Warning: Incompatible color definition on input line 698.
+Package xcolor Warning: Incompatible color definition on input line 1121.
 
 
-Package xcolor Warning: Incompatible color definition on input line 698.
+Package xcolor Warning: Incompatible color definition on input line 1121.
 
 
-Package xcolor Warning: Incompatible color definition on input line 699.
+Package xcolor Warning: Incompatible color definition on input line 1122.
 
 
-Package xcolor Warning: Incompatible color definition on input line 699.
+Package xcolor Warning: Incompatible color definition on input line 1122.
 
 
-Package xcolor Warning: Incompatible color definition on input line 699.
+Package xcolor Warning: Incompatible color definition on input line 1122.
 
 
-Package xcolor Warning: Incompatible color definition on input line 699.
+Package xcolor Warning: Incompatible color definition on input line 1122.
 
 
-Package xcolor Warning: Incompatible color definition on input line 699.
+Package xcolor Warning: Incompatible color definition on input line 1122.
 
 
-Package xcolor Warning: Incompatible color definition on input line 699.
+Package xcolor Warning: Incompatible color definition on input line 1122.
 
 
-Package xcolor Warning: Incompatible color definition on input line 699.
+Package xcolor Warning: Incompatible color definition on input line 1122.
 
 
-Package xcolor Warning: Incompatible color definition on input line 699.
+Package xcolor Warning: Incompatible color definition on input line 1122.
 
 
-Package xcolor Warning: Incompatible color definition on input line 700.
+Package xcolor Warning: Incompatible color definition on input line 1123.
 
 
-Package xcolor Warning: Incompatible color definition on input line 700.
+Package xcolor Warning: Incompatible color definition on input line 1123.
 
 
-Package xcolor Warning: Incompatible color definition on input line 701.
+Package xcolor Warning: Incompatible color definition on input line 1124.
 
 
-Package xcolor Warning: Incompatible color definition on input line 701.
+Package xcolor Warning: Incompatible color definition on input line 1124.
 
 
-Package xcolor Warning: Incompatible color definition on input line 717.
+Package xcolor Warning: Incompatible color definition on input line 1140.
 
 
-Package xcolor Warning: Incompatible color definition on input line 717.
+Package xcolor Warning: Incompatible color definition on input line 1140.
 
 
-Package xcolor Warning: Incompatible color definition on input line 718.
+Package xcolor Warning: Incompatible color definition on input line 1141.
 
 
-Package xcolor Warning: Incompatible color definition on input line 718.
+Package xcolor Warning: Incompatible color definition on input line 1141.
 
 
-Package xcolor Warning: Incompatible color definition on input line 719.
+Package xcolor Warning: Incompatible color definition on input line 1142.
 
 
-Package xcolor Warning: Incompatible color definition on input line 719.
+Package xcolor Warning: Incompatible color definition on input line 1142.
 
 
-Package xcolor Warning: Incompatible color definition on input line 719.
+Package xcolor Warning: Incompatible color definition on input line 1142.
 
 
-Package xcolor Warning: Incompatible color definition on input line 719.
+Package xcolor Warning: Incompatible color definition on input line 1142.
 
 
-Package xcolor Warning: Incompatible color definition on input line 719.
+Package xcolor Warning: Incompatible color definition on input line 1142.
 
 
-Package xcolor Warning: Incompatible color definition on input line 719.
+Package xcolor Warning: Incompatible color definition on input line 1142.
 
 
-Package xcolor Warning: Incompatible color definition on input line 719.
+Package xcolor Warning: Incompatible color definition on input line 1142.
 
 
-Package xcolor Warning: Incompatible color definition on input line 719.
+Package xcolor Warning: Incompatible color definition on input line 1142.
 
 
-Package xcolor Warning: Incompatible color definition on input line 720.
+Package xcolor Warning: Incompatible color definition on input line 1143.
 
 
-Package xcolor Warning: Incompatible color definition on input line 720.
+Package xcolor Warning: Incompatible color definition on input line 1143.
 
 
-Package xcolor Warning: Incompatible color definition on input line 721.
+Package xcolor Warning: Incompatible color definition on input line 1144.
 
 
-Package xcolor Warning: Incompatible color definition on input line 721.
+Package xcolor Warning: Incompatible color definition on input line 1144.
 
 
-Package xcolor Warning: Incompatible color definition on input line 725.
+Package xcolor Warning: Incompatible color definition on input line 1148.
 
 
-Package xcolor Warning: Incompatible color definition on input line 725.
+Package xcolor Warning: Incompatible color definition on input line 1148.
 
 
-Package xcolor Warning: Incompatible color definition on input line 725.
+Package xcolor Warning: Incompatible color definition on input line 1148.
 
 
-Package xcolor Warning: Incompatible color definition on input line 727.
+Package xcolor Warning: Incompatible color definition on input line 1150.
 
 
-Package xcolor Warning: Incompatible color definition on input line 727.
+Package xcolor Warning: Incompatible color definition on input line 1150.
 
 
-Package xcolor Warning: Incompatible color definition on input line 727.
+Package xcolor Warning: Incompatible color definition on input line 1150.
 
 
-Package xcolor Warning: Incompatible color definition on input line 727.
+Package xcolor Warning: Incompatible color definition on input line 1150.
 
 
-Package xcolor Warning: Incompatible color definition on input line 727.
+Package xcolor Warning: Incompatible color definition on input line 1150.
 
 
-Package xcolor Warning: Incompatible color definition on input line 727.
+Package xcolor Warning: Incompatible color definition on input line 1150.
 
 
-Package xcolor Warning: Incompatible color definition on input line 727.
+Package xcolor Warning: Incompatible color definition on input line 1150.
 
 
-Package xcolor Warning: Incompatible color definition on input line 727.
+Package xcolor Warning: Incompatible color definition on input line 1150.
 
 
-Package xcolor Warning: Incompatible color definition on input line 727.
+Package xcolor Warning: Incompatible color definition on input line 1150.
 
-[28] [29]
+[42] [43]
 Annexe B.
 
-Underfull \hbox (badness 10000) in paragraph at lines 743--744
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 745--746
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
 
  []
 
-<itegra_conti_1_22.png, id=525, 1013.7875pt x 481.8pt>
+<itegra_conti_1_22.png, id=748, 1013.7875pt x 481.8pt>
 File: itegra_conti_1_22.png Graphic file (type png)
 
 <use itegra_conti_1_22.png>
-Package pdftex.def Info: itegra_conti_1_22.png used on input line 749.
+Package pdftex.def Info: itegra_conti_1_22.png used on input line 1172.
 (pdftex.def)             Requested size: 304.1386pt x 144.5411pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 750.
+(caption)                particular \caption on input line 1173.
 See the caption package documentation for explanation.
 
-<itegra_conti_2_23.png, id=527, 1010.77625pt x 479.7925pt>
+<itegra_conti_2_23.png, id=750, 1010.77625pt x 479.7925pt>
 File: itegra_conti_2_23.png Graphic file (type png)
 
 <use itegra_conti_2_23.png>
-Package pdftex.def Info: itegra_conti_2_23.png used on input line 758.
+Package pdftex.def Info: itegra_conti_2_23.png used on input line 1181.
 (pdftex.def)             Requested size: 323.455pt x 153.53673pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 759.
+(caption)                particular \caption on input line 1182.
 See the caption package documentation for explanation.
 
-[30
+[44
 
  <./itegra_conti_1_22.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 763--764
+Underfull \hbox (badness 10000) in paragraph at lines 1186--1187
 
  []
 
-<etape_prod_24.png, id=534, 1056.94875pt x 140.525pt>
+<etape_prod_24.png, id=756, 1056.94875pt x 140.525pt>
 File: etape_prod_24.png Graphic file (type png)
  <use etape_prod_24.png>
-Package pdftex.def Info: etape_prod_24.png used on input line 767.
+Package pdftex.def Info: etape_prod_24.png used on input line 1190.
 (pdftex.def)             Requested size: 369.9376pt x 49.18448pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 768.
+(caption)                particular \caption on input line 1191.
 See the caption package documentation for explanation.
 
-[31 <./itegra_conti_2_23.png> <./etape_prod_24.png>]
+[45 <./itegra_conti_2_23.png> <./etape_prod_24.png>]
 Annexe C.
-(./archimsa.bbl [32
+(./archimsa.bbl [46
 
-] [33]
+] [47]
 Underfull \hbox (badness 10000) in paragraph at lines 27--30
 []\T1/cmr/m/n/12 Dewayne E.Perry and Alexan-der L.Wolf.  Foun-da-
  []
@@ -2006,7 +2439,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--41
 []\T1/cmr/m/n/12 Martin Fow-ler.  Mo-no-li-th-first.  https ://-mar-tin-fow-
  []
 
-[34
+[48
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 76--80
@@ -2026,53 +2459,89 @@ onal_state_transfer.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--98
+Underfull \hbox (badness 1721) in paragraph at lines 92--97
+\T1/cmr/m/n/12 net-flix mid-tier ser-vices to-ge-ther.  https ://medium.com/net
+flix-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--97
+\T1/cmr/m/n/12 techblog/announcing-ribbon-tying-the-netflix-mid-tier-services-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--105
 \T1/cmr/m/n/12 http ://www.ptidej.net/courses/log4430/winter12/slides/Cours2012
 .
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 799.
- [35]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 799.
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1222 \begin{document}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1223.
+[49]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1223.
  (./archimsa.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 799.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 799.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1223.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1223.
+
 Package rerunfilecheck Info: File `archimsa.out' has not changed.
-(rerunfilecheck)             Checksum: 87EA432B040F90895317E5AA1E785467;2032.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 799.
- ) 
+(rerunfilecheck)             Checksum: B167D63D2E82CEEE8DF815AAF7712010;2704.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1223.
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 1222 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 20499 strings out of 493029
- 334734 string characters out of 6136234
- 507023 words of memory out of 5000000
- 23436 multiletter control sequences out of 15000+600000
- 23959 words of font info for 47 fonts, out of 8000000 for 9000
+ 21293 strings out of 493029
+ 345535 string characters out of 6136234
+ 515801 words of memory out of 5000000
+ 24102 multiletter control sequences out of 15000+600000
+ 28193 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 53i,7n,92p,922b,2015s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx
-1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share
-/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/p
-ublic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1
-200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1440.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/pu
-blic/cm-super/sfcc2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm08
-00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfsi1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl120
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfsx2488.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1728
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on archimsa.pdf (36 pages, 1433245 bytes).
+ 53i,9n,92p,925b,1957s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfcc1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1440.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfcc2074.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfsi1440.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfsl1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfti1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sftt1200.pfb>
+Output written on archimsa.pdf (50 pages, 1549920 bytes).
 PDF statistics:
- 675 PDF objects out of 1000 (max. 8388607)
- 580 compressed objects within 6 object streams
- 190 named destinations out of 1000 (max. 500000)
- 373 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 929 PDF objects out of 1000 (max. 8388607)
+ 814 compressed objects within 9 object streams
+ 280 named destinations out of 1000 (max. 500000)
+ 445 words of extra memory for PDF output out of 10000 (max. 10000000)
 
